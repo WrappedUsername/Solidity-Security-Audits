@@ -16,7 +16,7 @@ helpful blog post from Dylan, and I recommend reading it.
 
     - Audit Report Structure
 
-## Quality of Writing:
+## Quality Writing:
 - Writing should be simple enough that it does not defeat the reader.
 - Professionally edited, free from major grammatical error.
 
@@ -27,3 +27,33 @@ helpful blog post from Dylan, and I recommend reading it.
 - Include a thank you message.
 
 ![image](https://user-images.githubusercontent.com/104662990/198149253-a19577c4-6e5c-427e-a1f8-ef35ca5ed926.png)
+
+## Limitations:
+
+
+## Contract Overview:
+
+
+## Various Tests:
+
+
+## Level of Code/Project Maturity:
+
+
+## Findings/Results of Tests Categories:
+
+
+## Exploit Scenarios:
+
+
+## Recommendations:
+
+
+
+
+
+
+
+
+
+
