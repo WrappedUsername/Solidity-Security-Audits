@@ -23,7 +23,7 @@ helpful blog post from Dylan, and I recommend reading it.
 ![image](https://user-images.githubusercontent.com/104662990/198148926-28e54a84-9866-48f1-a402-80664cd8f73a.png)
 
 ## Executive Summary:
-- The executive summary should tell the reader why this audit report is happening and the most interesting findings.
+- The executive summary should tell the reader why this audit report is happening and how it will proceed.
 - Include a thank you message.
 
 ![image](https://user-images.githubusercontent.com/104662990/198149253-a19577c4-6e5c-427e-a1f8-ef35ca5ed926.png)
