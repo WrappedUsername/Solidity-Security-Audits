@@ -9,7 +9,7 @@
 <img alt="Stars" src="https://img.shields.io/github/stars/WrappedUsername/Solidity-Security-Audits?style=flat-square&labelColor=343b41"/>
 </p>
 
-- Security audits of various projects using, Solidity smart-contracts.
+- Security audits for various projects using, Solidity smart-contracts.
 
 The following audit report structure is from [D-Squared](https://www.dylandavis.net/blog/2022/06/12/the-ideal-audit-report/), this is an extremely
 helpful blog post from Dylan, and I recommend reading it.
