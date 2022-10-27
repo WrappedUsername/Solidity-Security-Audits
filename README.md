@@ -62,10 +62,14 @@ helpful blog post from Dylan, and I recommend reading it.
 - TODO
 - TODO
 
+![image](https://user-images.githubusercontent.com/104662990/198306791-e874985c-2cd4-4f41-af13-eb2301bb45fb.png)
 
 ## Recommendations:
 - TODO
 - TODO
+
+![image](https://user-images.githubusercontent.com/104662990/198307457-2ab64931-2e09-4b77-8930-2577bb8a0e6e.png)
+
 
 
 
