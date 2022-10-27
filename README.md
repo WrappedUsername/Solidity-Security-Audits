@@ -47,26 +47,27 @@ helpful blog post from Dylan, and I recommend reading it.
 ![image](https://user-images.githubusercontent.com/104662990/198302566-7b14d91e-71c6-4c0c-9a1c-050f3fc09a0b.png)
 
 ## Level of Code/Project Maturity:
-- TODO
+- A subjective, but important data point for investors to understand from an expert auditor on how mature this code base is relative to their peers.
 - TODO
 
 ![image](https://user-images.githubusercontent.com/104662990/198303626-3ebbabc3-8750-4509-9243-337286fe4ed4.png)
 
-## Findings/Results of Tests Categories:
-- TODO
-- TODO
+## Findings/Results of Tests in Categories:
+- Labeling the severity of vulnerabilities in categories, e.g. “likelihood + impact = severity”.
+- TODO diagram
 
 ![image](https://user-images.githubusercontent.com/104662990/198304869-fee6c281-c619-4c5d-828a-223fc6a2dd82.png)
 
 ## Exploit Scenarios:
-- TODO
-- TODO
+- Explain the exploit scenario for each vulnerability.
+- Provides a helpful reference during a recommendation.
+- When developers know exactly how an exploit occurs they can implement best practices. 
 
 ![image](https://user-images.githubusercontent.com/104662990/198306791-e874985c-2cd4-4f41-af13-eb2301bb45fb.png)
 
 ## Recommendations:
-- TODO
-- TODO
+- Straight to the point, with minimal jargon.
+- A concise, but specific recommendation, with short-term and long-term recommendations.
 
 ![image](https://user-images.githubusercontent.com/104662990/198307457-2ab64931-2e09-4b77-8930-2577bb8a0e6e.png)
 
