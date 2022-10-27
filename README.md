@@ -40,19 +40,19 @@ helpful blog post from Dylan, and I recommend reading it.
 
 ![image](https://user-images.githubusercontent.com/104662990/198300622-dda686be-de65-418b-9c0f-4e01a1f5f49d.png)
 
-## Various Tests:
-- Emphasize the different types of tests done and the results of those tests.
-- Include Echidna test scripts the developer can build on top of with an emphasis of incorporating those into their CI/CD pipelines.
-
-![image](https://user-images.githubusercontent.com/104662990/198302566-7b14d91e-71c6-4c0c-9a1c-050f3fc09a0b.png)
-
 ## Level of Code/Project Maturity:
 - A subjective, but important data point for investors to understand from an expert auditor on how mature this code base is relative to their peers.
 - TODO
 
 ![image](https://user-images.githubusercontent.com/104662990/198303626-3ebbabc3-8750-4509-9243-337286fe4ed4.png)
 
-## Findings/Results of Tests in Categories:
+## Various Tests:
+- Emphasize the different types of tests done and the results of those tests.
+- Include Echidna test scripts the developer can build on top of with an emphasis of incorporating those into their CI/CD pipelines.
+
+![image](https://user-images.githubusercontent.com/104662990/198302566-7b14d91e-71c6-4c0c-9a1c-050f3fc09a0b.png)
+
+## Results of Tests/Vulnerabilities found labeled, inside Categories:
 - Labeling the severity of vulnerabilities in categories, e.g. “likelihood + impact = severity”.
 - TODO diagram
 
