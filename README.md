@@ -23,30 +23,49 @@ helpful blog post from Dylan, and I recommend reading it.
 ![image](https://user-images.githubusercontent.com/104662990/198148926-28e54a84-9866-48f1-a402-80664cd8f73a.png)
 
 ## Executive Summary:
-- The Exec summary should tell the reader why this audit report is happening and the most interesting findings.
+- The executive summary should tell the reader why this audit report is happening and the most interesting findings.
 - Include a thank you message.
 
 ![image](https://user-images.githubusercontent.com/104662990/198149253-a19577c4-6e5c-427e-a1f8-ef35ca5ed926.png)
 
-## Limitations:
+## Limitations/Liabilities and Terms of Agreement:
+- The reader should know that a security audit doesn’t automatically make a contract safe, the auditing firm is not liable for the unknown.
+- Both parties have agreed to a set of pre-determined terms.
 
+![image](https://user-images.githubusercontent.com/104662990/198298931-55d4ae4e-ba28-4485-aab6-958b535decb0.png)
 
 ## Contract Overview:
+- Looking at the 10,000 foot overview of a contract is an effective way to quickly improve the reader’s understanding.
+- Explain the overall purpose of each contract.
 
+![image](https://user-images.githubusercontent.com/104662990/198300622-dda686be-de65-418b-9c0f-4e01a1f5f49d.png)
 
 ## Various Tests:
+- Emphasize the different types of tests done and the results of those tests.
+- Include Echidna test scripts the developer can build on top of with an emphasis of incorporating those into their CI/CD pipelines.
 
+![image](https://user-images.githubusercontent.com/104662990/198302566-7b14d91e-71c6-4c0c-9a1c-050f3fc09a0b.png)
 
 ## Level of Code/Project Maturity:
+- TODO
+- TODO
 
+![image](https://user-images.githubusercontent.com/104662990/198303626-3ebbabc3-8750-4509-9243-337286fe4ed4.png)
 
 ## Findings/Results of Tests Categories:
+- TODO
+- TODO
 
+![image](https://user-images.githubusercontent.com/104662990/198304869-fee6c281-c619-4c5d-828a-223fc6a2dd82.png)
 
 ## Exploit Scenarios:
+- TODO
+- TODO
 
 
 ## Recommendations:
+- TODO
+- TODO
 
 
 
