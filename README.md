@@ -13,8 +13,11 @@
 
 The following audit report structure is from [D-Squared](https://www.dylandavis.net/blog/2022/06/12/the-ideal-audit-report/), this is an extremely
 helpful blog post from Dylan, and I recommend reading it.
+- Describes the sections of various audit reports, from many different auditing firms, that make for the "perfect" audit report. 
 
-    - Audit Report Structure
+```JavaScript
+Audit Report Structure
+```
 
 ## Quality Writing:
 - Writing should be simple enough that it does not defeat the reader.
