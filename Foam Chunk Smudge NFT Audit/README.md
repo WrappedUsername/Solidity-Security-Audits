@@ -13,8 +13,7 @@
 ## Executive Summary:
 According to the Foam Chunk Smudge White Paper, this project will implement a complex project token economy. The diagram below will be used to calculate the severity of the vulnerabilities if any are found.</br>
 For example:
-- if the likelihood of that vulnerability is high, with a severe impact if exploited, that would be a critical Cat 5 vulnerability
-
+- if the likelihood of that vulnerability being exploited because it is easy to attack, is high, with a severe impact if exploited, that would be a critical Cat 5 vulnerability
 
 ## 
 | Likelihood(ease of attack) + | Impact = | Severity |
